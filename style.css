@@ -1,0 +1,72 @@
+ /* div img {
+	width:100%;
+} */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 100%;
+}
+
+/* Dimensions & couleurs des diff Block */
+
+/* BLOCK 1 */
+
+.navbar {    	
+	height: 53px;
+	background-color: #f05f40;
+}
+
+/* BLOCK 2 */
+.container {	
+	height: 845px;
+	margin-top: 53px;
+	
+	background-color: #897263;
+
+}
+
+/* BLOCK 3 */
+.container0 {
+	height: 420px;
+	background-color: #f05f40;
+
+}
+
+/* BLOCK 4 */
+.container1 {
+	height: 420px;
+
+}
+
+/* BLOCK 5 */
+.container_img {
+	height: 420px;
+
+}
+
+/* BLOCK 6 */
+.container2 {	
+	height: 200px;
+	background-color: #222222;
+
+}
+
+/* BLOCK 7 */
+.footer {	
+	height: 420px;	
+}
+
+/* --------------------------------------------- */
+/* navbar list */
+.navbar li {
+	list-style: none;
+	float: right;
+}
+
+.navbar a:hover {
+	color: #6cf12b;
+}
